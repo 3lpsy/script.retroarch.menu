@@ -1,0 +1,21 @@
+# Kodi Media Center language file
+# Addon Name: RetroArch Menu Launcher
+# Addon id: script.retroarch.menu
+# Addon Provider: amverweij
+msgid ""
+msgstr ""
+"Report-Msgid-Bugs-To: amverweij\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "#32001"
+msgid "General"
+msgstr "General"
+
+#
+#Settings
+#
+
+msgctxt "#32002"
+msgid "Command to restart Kodi"
+msgstr "Command to restart Kodi"

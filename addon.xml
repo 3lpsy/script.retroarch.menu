@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="script.retroarch.menu" name="RetroArch Menu Launcher" version="0.1.0" provider-name="amverweij">
+	<requires>
+		<import addon="xbmc.python" version="3.0.0"/>
+	</requires>
+	<extension point="xbmc.python.script" library="addon.py">
+		<provides>executable</provides>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<platform>linux</platform>
+		<summary lang="en">Runs RetroArch menu from Kodi.</summary>
+		<description lang="en">Stops Kodi, starts RetroArch in menu mode, and restarts Kodi when RetroArch exits.</description>
+		<license>GNU General Public License, v2</license>
+		<language></language>
+		<source>https://github.com/amverweij/script.retroarch.menu</source>
+		<website>https://retroarch.com</website>
+		<assets>
+			<icon>icon.png</icon>
+			<fanart>RetroArch-xmb.png</fanart>
+			<screenshot>RetroArch-xmb.png</screenshot>
+		</assets>
+		<news>Initial version</news>
+	</extension>
+</addon>
