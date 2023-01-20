@@ -4,7 +4,7 @@
 # Addon Provider: amverweij
 msgid ""
 msgstr ""
-"Report-Msgid-Bugs-To: amverweij\n"
+"Report-Msgid-Bugs-To: 3lpsy\n"
 "Language: en\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
@@ -17,5 +17,13 @@ msgstr "General"
 #
 
 msgctxt "#32002"
+msgid "Command to start RetroArch"
+msgstr "Command to start RetroArch"
+
+msgctxt "#32003"
+msgid "Command to stop Kodi"
+msgstr "Command to stop Kodi"
+
+msgctxt "#32004"
 msgid "Command to restart Kodi"
 msgstr "Command to restart Kodi"
